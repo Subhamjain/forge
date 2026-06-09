@@ -114,8 +114,8 @@ Users get a live Sandpack preview, a persistent chat history, image upload suppo
 ### Installation
 
 ```bash
-git clone https://github.com/roadsidecoder/buildai.git
-cd buildai
+git clone https://github.com/Subhamjain/forge.git
+cd forge
 npm install
 ```
 
